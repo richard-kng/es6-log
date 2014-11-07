@@ -1,0 +1,45 @@
+{
+  "name": "es6-log",
+  "description": "",
+  "version": "1.0.0",
+  "homepage": "https://github.com/richard-kng/es6-log",
+  "author": "Richard KnG <richrdkng@gmail.com> (https://github.com/richard-kng)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/richard-kng/es6-log.git"
+  },
+  "bugs": {
+    "url": "https://github.com/richard-kng/es6-log/issues"
+  },
+  "license": "MIT",
+  "main": "es6.log",
+  "scripts": {
+    "build": "npm install && grunt build",
+    "test": "grunt --verbose"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-banner": "~0.2.3",
+    "grunt-contrib-copy": "~0.7.0",
+    "grunt-contrib-clean": "~0.6.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-uglify": "~0.6.0",
+    "grunt-jasmine-node": "~0.2.1",
+    "grunt-traceur": "~0.2.10",
+    "es6-module-loader": "~0.9.4"
+  },
+  "keywords": [
+    "es6",
+    "ecmascript 6",
+    "es6-log",
+    "es6.log",
+    "javascript",
+    "js",
+    "production",
+    "tool"
+  ],
+  "directories": {
+    "test": "test"
+  }
+}

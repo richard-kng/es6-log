@@ -1,0 +1,1 @@
+import log from "../src/es6.log";
