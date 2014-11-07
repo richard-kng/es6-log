@@ -1,6 +1,6 @@
 {
   "name": "es6-log",
-  "description": "",
+  "description": "A simple way to use console.log during development & testing. ECMAScript 6 version of Qulog.",
   "homepage": "https://github.com/richard-kng/es6-log",
   "repository": "git://github.com/richard-kng/es6-log.git",
   "keywords": [
@@ -11,6 +11,7 @@
     "javascript",
     "js",
     "production",
+    "utility",
     "tool"
   ],
   "authors": [

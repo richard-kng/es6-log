@@ -1,6 +1,6 @@
 es6-log [![Build Status](https://travis-ci.org/richard-kng/es6-log.svg?branch=master)](https://travis-ci.org/richard-kng/es6-log)
 =======
-__es6-log__
+__A simple way to use console.log during development & testing. ECMAScript 6 version of Qulog.__
 
 To support this project, you can at [the support page](http://richard-kng.github.io/support/) by supporting the developer.
 

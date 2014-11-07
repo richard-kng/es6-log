@@ -87,5 +87,5 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-jasmine-node');
 
     grunt.registerTask("build", ["jshint", "clean", "copy", "usebanner", "traceur"]);
-    grunt.registerTask("default", ["clean", "traceur", "jasmine_node"]);
+    grunt.registerTask("default", ["jasmine_node"]);
 };

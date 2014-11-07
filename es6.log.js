@@ -1,5 +1,5 @@
 /*
- es6.log 1.0.2 Copyright (c) 2014 "Richard KnG" Richárd Szakács
+ es6.log 1.0.3 Copyright (c) 2014 "Richard KnG" Richárd Szakács
  Licensed under the MIT license.
  see: https://github.com/richard-kng/es6-log for details
 */
