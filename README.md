@@ -1,4 +1,4 @@
-es6-log [![Build Status](https://travis-ci.org/richard-kng/es6-log.svg?branch=master)](https://travis-ci.org/richard-kng/es6-log)
+es6-log [![Build Status](https://travis-ci.org/richard-kng/es6-log.svg?branch=master)](https://travis-ci.org/richard-kng/es6-log) [![Greenkeeper badge](https://badges.greenkeeper.io/richrdkng/es6-log.svg)](https://greenkeeper.io/)
 =======
 __A simple way to use console.log during development & testing. ECMAScript 6 version of Qulog.__
 
